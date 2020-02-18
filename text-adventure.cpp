@@ -19,7 +19,7 @@ int main() {
     //std::cout << " |_____/  \__,_||_| |_| \__,_| \__,_| \__, | (_)\n ";
     //std::cout << "                                       __/ |    \n ";
     //std::cout << "                                      |___/     \n ";
-    //std::cout << " ~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/ \n\n ";
+    //std::cout << " ~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/ \n ";
 
     std::cout << "It's 8 am.  What should we do first? \n\n";
     std::cout << "1)  Nothing, stay in bed!\n";
